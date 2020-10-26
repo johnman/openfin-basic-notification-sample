@@ -2,6 +2,10 @@
 
 This is a basic template that can be used in codesandbox.
 
+To launch straight away visit: https://8tqeg.csb.app/
+
+To fork the sandbox visit: https://codesandbox.io/s/openfin-notifications-basic-service-8tqeg
+
 Some things you will need to update:
 
 In config/app.window.fin.json update:
